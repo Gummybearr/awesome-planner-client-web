@@ -1,6 +1,7 @@
 .plannerBoard {
   width: 95%;
   height: 85%;
+  min-height: 500px;
   background-color: #f6f3f3;
   margin: auto;
 }

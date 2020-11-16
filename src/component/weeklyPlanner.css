@@ -16,7 +16,6 @@
   border-right: 2px solid black;
   display: inline-block;
   text-align: center;
-  /* font-family: Itim-Regular; */
 }
 
 .day-outline-no-border {
@@ -24,10 +23,10 @@
   height: 100%;
   display: inline-block;
   text-align: center;
-  /* font-family: Itim-Regular; */
 }
 
 .day-text {
   margin-top: 1%;
   font-family: Itim-Regular;
+  font-size: 110%;
 }
